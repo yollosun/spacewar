@@ -39,7 +39,7 @@ body{
 
 .bum{
     width: 100%;
-    background: url('https://lh3.googleusercontent.com/proxy/ByEd5NO3LHKtaVYUag41V3cSAfzVZiu5cRkl9AwtcBAdMR3j2zDC0RsPgQgNoQXXYHURK5P1HytX3e2M4RZGPwiP-g') ;
+    background: url('./img/unn.gif') ;
     background-repeat: no-repeat no-repeat;
     background-size: 100vh;
     background-position: center;
@@ -50,7 +50,7 @@ body{
 
 .happ{
     width: 100%;
-    background: url('https://media3.giphy.com/media/SiEz6hxdcJuOf2n3TE/giphy.gif');
+    background: url('./img/gip.webp');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
